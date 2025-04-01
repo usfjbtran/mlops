@@ -1,0 +1,15 @@
+artifact_uri: /Users/jennifertran/Desktop/Spring PT 2 2025/mlops/labs/mlruns/1/771c91d210e04c638411fa02847914bc/artifacts
+end_time: 1742885471048
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 771c91d210e04c638411fa02847914bc
+run_name: salty-squid-193
+run_uuid: 771c91d210e04c638411fa02847914bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742885469273
+status: 3
+tags: []
+user_id: jennifertran

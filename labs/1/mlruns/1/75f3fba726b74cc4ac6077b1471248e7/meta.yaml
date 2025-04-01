@@ -1,0 +1,15 @@
+artifact_uri: /Users/jennifertran/Desktop/Spring PT 2 2025/mlops/labs/mlruns/1/75f3fba726b74cc4ac6077b1471248e7/artifacts
+end_time: 1742885500031
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 75f3fba726b74cc4ac6077b1471248e7
+run_name: treasured-ram-123
+run_uuid: 75f3fba726b74cc4ac6077b1471248e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742885497339
+status: 3
+tags: []
+user_id: jennifertran

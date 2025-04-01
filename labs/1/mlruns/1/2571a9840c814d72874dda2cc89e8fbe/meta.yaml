@@ -1,0 +1,15 @@
+artifact_uri: /Users/jennifertran/Desktop/Spring PT 2 2025/mlops/labs/mlruns/1/2571a9840c814d72874dda2cc89e8fbe/artifacts
+end_time: 1742885485572
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2571a9840c814d72874dda2cc89e8fbe
+run_name: bemused-shark-84
+run_uuid: 2571a9840c814d72874dda2cc89e8fbe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742885483844
+status: 3
+tags: []
+user_id: jennifertran

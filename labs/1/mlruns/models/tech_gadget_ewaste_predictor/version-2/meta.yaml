@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1742885584903
+current_stage: None
+description: null
+last_updated_timestamp: 1742885584903
+name: tech_gadget_ewaste_predictor
+run_id: cc531d7edebe48ac844a9d3f2a271f00
+run_link: null
+source: /Users/jennifertran/Desktop/Spring PT 2 2025/mlops/labs/mlruns/1/cc531d7edebe48ac844a9d3f2a271f00/artifacts/model
+status: READY
+status_message: null
+storage_location: /Users/jennifertran/Desktop/Spring PT 2 2025/mlops/labs/mlruns/1/cc531d7edebe48ac844a9d3f2a271f00/artifacts/model
+user_id: null
+version: 2

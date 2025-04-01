@@ -1,0 +1,15 @@
+artifact_uri: /Users/jennifertran/Desktop/Spring PT 2 2025/mlops/labs/mlruns/1/f83899ef6a80493ba0f10a8fba4d3934/artifacts
+end_time: 1742885510745
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f83899ef6a80493ba0f10a8fba4d3934
+run_name: bustling-midge-777
+run_uuid: f83899ef6a80493ba0f10a8fba4d3934
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742885509118
+status: 3
+tags: []
+user_id: jennifertran

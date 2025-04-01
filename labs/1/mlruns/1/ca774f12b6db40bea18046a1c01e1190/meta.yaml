@@ -1,0 +1,15 @@
+artifact_uri: /Users/jennifertran/Desktop/Spring PT 2 2025/mlops/labs/mlruns/1/ca774f12b6db40bea18046a1c01e1190/artifacts
+end_time: 1742885457500
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ca774f12b6db40bea18046a1c01e1190
+run_name: overjoyed-cub-156
+run_uuid: ca774f12b6db40bea18046a1c01e1190
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742885454982
+status: 3
+tags: []
+user_id: jennifertran

@@ -1,0 +1,15 @@
+artifact_uri: /Users/jennifertran/Desktop/Spring PT 2 2025/mlops/labs/mlruns/1/94c6e2919e6d4f45972e20d354d20332/artifacts
+end_time: 1742885489767
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 94c6e2919e6d4f45972e20d354d20332
+run_name: efficient-bat-44
+run_uuid: 94c6e2919e6d4f45972e20d354d20332
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742885487685
+status: 3
+tags: []
+user_id: jennifertran

@@ -1,0 +1,15 @@
+artifact_uri: /Users/jennifertran/Desktop/Spring PT 2 2025/mlops/labs/mlruns/1/370196f7941c4335b30fd69550fa4485/artifacts
+end_time: 1742885495539
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 370196f7941c4335b30fd69550fa4485
+run_name: rebellious-eel-136
+run_uuid: 370196f7941c4335b30fd69550fa4485
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742885493750
+status: 3
+tags: []
+user_id: jennifertran

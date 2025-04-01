@@ -1,0 +1,15 @@
+artifact_uri: /Users/jennifertran/Desktop/Spring PT 2 2025/mlops/labs/mlruns/1/48da74fec24947378d08b4b3b2859eab/artifacts
+end_time: 1742885483840
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 48da74fec24947378d08b4b3b2859eab
+run_name: treasured-colt-333
+run_uuid: 48da74fec24947378d08b4b3b2859eab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742885482124
+status: 3
+tags: []
+user_id: jennifertran

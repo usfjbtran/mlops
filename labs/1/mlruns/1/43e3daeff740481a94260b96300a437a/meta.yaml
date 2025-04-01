@@ -1,0 +1,15 @@
+artifact_uri: /Users/jennifertran/Desktop/Spring PT 2 2025/mlops/labs/mlruns/1/43e3daeff740481a94260b96300a437a/artifacts
+end_time: 1742885479957
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 43e3daeff740481a94260b96300a437a
+run_name: skillful-cow-876
+run_uuid: 43e3daeff740481a94260b96300a437a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742885478197
+status: 3
+tags: []
+user_id: jennifertran
