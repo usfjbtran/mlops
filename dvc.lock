@@ -1,0 +1,18 @@
+schema: '2.0'
+stages:
+  preprocess:
+    cmd: python src/preprocessing.py
+    deps:
+    - path: data/adult.data
+      hash: md5
+      md5: 5d7c39d7b8804f071cdd1f2a7c460872
+      size: 3974305
+    - path: src/preprocessing.py
+      hash: md5
+      md5: 44a878a5b93dc2269884c89bf93762ea
+      size: 233
+    outs:
+    - path: data/clean_adult.csv
+      hash: md5
+      md5: 6370c125fbdc195809ee6915a1721b36
+      size: 3811534
