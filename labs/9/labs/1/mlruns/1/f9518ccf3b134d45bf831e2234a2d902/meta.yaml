@@ -1,0 +1,15 @@
+artifact_uri: /Users/jennifertran/Desktop/Spring PT 2 2025/mlops/labs/mlruns/1/f9518ccf3b134d45bf831e2234a2d902/artifacts
+end_time: 1742885503877
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f9518ccf3b134d45bf831e2234a2d902
+run_name: judicious-loon-951
+run_uuid: f9518ccf3b134d45bf831e2234a2d902
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742885501889
+status: 3
+tags: []
+user_id: jennifertran

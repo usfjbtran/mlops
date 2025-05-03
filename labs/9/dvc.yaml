@@ -1,0 +1,8 @@
+stages:
+  preprocess:
+    cmd: python src/preprocessing.py
+    deps:
+    - data/adult.data
+    - src/preprocessing.py
+    outs:
+    - data/clean_adult.csv

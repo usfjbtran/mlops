@@ -1,0 +1,15 @@
+artifact_uri: /Users/jennifertran/Desktop/Spring PT 2 2025/mlops/labs/mlruns/1/fde5ab8e412c407e9609e9b69fd5c919/artifacts
+end_time: 1742885463757
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fde5ab8e412c407e9609e9b69fd5c919
+run_name: thoughtful-crane-946
+run_uuid: fde5ab8e412c407e9609e9b69fd5c919
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742885461940
+status: 3
+tags: []
+user_id: jennifertran

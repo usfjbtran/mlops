@@ -1,0 +1,43 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: mlflow-deployment
+  labels:
+    app: mlflow
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: mlflow
+  template:
+    metadata:
+      labels:
+        app: mlflow
+    spec:
+      containers:
+      - name: mlflow
+        image: us-west2-docker.pkg.dev/still-mesh-458705-t0/mlflow-repo/mlflow:v1
+        imagePullPolicy: Always
+        ports:
+        - containerPort: 8080
+        env:
+        - name: POSTGRESQL_URL
+          valueFrom:
+            secretKeyRef:
+              name: database-url
+              key: POSTGRESQL_URL
+        - name: STORAGE_URL
+          valueFrom:
+            secretKeyRef:
+              name: bucket-url
+              key: STORAGE_URL
+        - name: GOOGLE_APPLICATION_CREDENTIALS
+          value: "/secrets/access-keys.json"
+        volumeMounts:
+        - name: access-keys
+          mountPath: "/secrets"
+          readOnly: true
+      volumes:
+      - name: access-keys
+        secret:
+          secretName: access-keys 

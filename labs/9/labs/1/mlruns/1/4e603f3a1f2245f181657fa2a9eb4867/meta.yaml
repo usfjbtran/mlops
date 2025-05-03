@@ -1,0 +1,15 @@
+artifact_uri: /Users/jennifertran/Desktop/Spring PT 2 2025/mlops/labs/mlruns/1/4e603f3a1f2245f181657fa2a9eb4867/artifacts
+end_time: 1742885476517
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4e603f3a1f2245f181657fa2a9eb4867
+run_name: exultant-gnu-349
+run_uuid: 4e603f3a1f2245f181657fa2a9eb4867
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742885474385
+status: 3
+tags: []
+user_id: jennifertran

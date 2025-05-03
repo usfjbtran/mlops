@@ -1,0 +1,15 @@
+artifact_uri: /Users/jennifertran/Desktop/Spring PT 2 2025/mlops/labs/mlruns/1/6ee1618318594bf5a4bf5793c9bacf61/artifacts
+end_time: 1742885478193
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6ee1618318594bf5a4bf5793c9bacf61
+run_name: clumsy-duck-763
+run_uuid: 6ee1618318594bf5a4bf5793c9bacf61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742885476521
+status: 3
+tags: []
+user_id: jennifertran

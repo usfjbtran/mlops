@@ -1,0 +1,15 @@
+artifact_uri: /Users/jennifertran/Desktop/Spring PT 2 2025/mlops/labs/mlruns/1/d056cebd31414320abdb6a21e68aeb1b/artifacts
+end_time: 1742885509113
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d056cebd31414320abdb6a21e68aeb1b
+run_name: caring-worm-351
+run_uuid: d056cebd31414320abdb6a21e68aeb1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742885507415
+status: 3
+tags: []
+user_id: jennifertran

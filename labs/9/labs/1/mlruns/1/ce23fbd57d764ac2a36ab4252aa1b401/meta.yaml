@@ -1,0 +1,15 @@
+artifact_uri: /Users/jennifertran/Desktop/Spring PT 2 2025/mlops/labs/mlruns/1/ce23fbd57d764ac2a36ab4252aa1b401/artifacts
+end_time: 1742885497324
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ce23fbd57d764ac2a36ab4252aa1b401
+run_name: fun-crab-261
+run_uuid: ce23fbd57d764ac2a36ab4252aa1b401
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742885495544
+status: 3
+tags: []
+user_id: jennifertran
