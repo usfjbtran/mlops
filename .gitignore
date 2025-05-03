@@ -39,4 +39,13 @@ ENV/
 .ipynb_checkpoints
 
 # Logs
-*.log 
+*.log
+
+# Credentials and sensitive data
+*.json
+*.key
+*.pem
+*.cert
+*.crt
+mlflow-key.json
+sa-private-key.json 
